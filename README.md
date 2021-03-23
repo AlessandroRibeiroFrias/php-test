@@ -83,3 +83,5 @@ $ composer test
 
 [link-travisci]: https://travis-ci.org/liveecommerce/php-test
 [link-codecov]: https://codecov.io/gh/liveecommerce/php-test
+
+[![Build Status](https://travis-ci.com/AlessandroRibeiroFrias/php-test.svg?branch=master)](https://travis-ci.com/AlessandroRibeiroFrias/php-test)
