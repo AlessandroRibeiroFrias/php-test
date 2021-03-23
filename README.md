@@ -79,7 +79,7 @@ $ composer test
 ```
 
 [icon-travisci]: https://travis-ci.com/AlessandroRibeiroFrias/php-test.svg?branch=master
-[icon-codecov]: https://img.shields.io/codecov/c/github/liveecommerce/php-test.svg?style=flat-square
+[icon-codecov]: https://app.codecov.io/gh/AlessandroRibeiroFrias/php-test
 
 [link-travisci]: https://travis-ci.com/AlessandroRibeiroFrias/php-test
-[link-codecov]: https://codecov.io/gh/liveecommerce/php-test
+[link-codecov]: https://app.codecov.io/gh/AlessandroRibeiroFrias/php-test
