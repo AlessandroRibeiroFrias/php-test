@@ -34,7 +34,7 @@ class MemoryCollection implements CollectionInterface
         }
 
         if (time() > $this->data[$index]['timeExpired']) {
-            return false;
+            return $defaultValue;
         }
 
         return $this->data[$index]['data'];
