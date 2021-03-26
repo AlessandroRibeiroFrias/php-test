@@ -160,6 +160,9 @@ class FileCollectionTest extends TestCase
         $this->assertTrue($collection->has(1));
         $this->assertFalse($collection->has(3));
 
+        $collection->set(3, 6, 10);
+        $this->assertTrue($collection->has(3));
+
         $collection->clean();
     }
 }
