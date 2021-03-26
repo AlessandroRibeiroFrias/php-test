@@ -13,7 +13,7 @@ class FileCollection implements CollectionInterface
     /**
      * @var string
      */
-    private $filepath = "arquivo.txt";
+    private $filepath = "file.txt";
 
     /**
      * @var bool|resource
